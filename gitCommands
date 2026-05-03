@@ -12,3 +12,6 @@
  git remote set-url origin https://PAT@github.com/DaNiNOP/train-with-ninad.git
  git remote -v
  git push origin master
+
+
+Trying the reverse of push that us pull. (hub to local)
