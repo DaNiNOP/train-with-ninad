@@ -1,0 +1,8 @@
+  
+  git --version
+  git init
+  git status
+  git add text.py
+  git commit -m "added testing files"
+  git restore text.py
+
