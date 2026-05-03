@@ -6,3 +6,9 @@
   git commit -m "added testing files"
   git restore text.py
 
+
+ git remote add origin https://github.com/DaNiNOP/train-with-ninad.git
+ git remote -v
+ git remote set-url origin https://PAT@github.com/DaNiNOP/train-with-ninad.git
+ git remote -v
+ git push origin master
